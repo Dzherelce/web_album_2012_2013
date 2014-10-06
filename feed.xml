@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:92A088DA-B90A-49D3-8F85-2D9673469932</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-07-14T19:54:39+09:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7BB268F1-3F39-4AA1-873F-D0974D9279BC</id>
+  <title>Навчальний рік 2012-2013</title>
+  <title xmlns="urn:iweb:">Навчальний рік 2012-2013</title>
+  <in-navbar xmlns="urn:iweb:">7BB268F1-3F39-4AA1-873F-D0974D9279BC</in-navbar>
+  <link rel="alternate" href="Navcalnij_rik_2012-2013.html"/>
+  <updated>2013-07-14T19:54:39.001+09:00</updated>
+  <content>Навчальний рік 2012-2013</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D92C0EA1-C394-47B0-89EA-6C66CAF42EA3</id>
+  <title>Наші вчителі</title>
+  <title xmlns="urn:iweb:">Наші вчителі</title>
+  <in-navbar xmlns="urn:iweb:">D92C0EA1-C394-47B0-89EA-6C66CAF42EA3</in-navbar>
+  <link rel="alternate" href="Nasi_vciteli.html"/>
+  <updated>2013-07-14T19:54:39.002+09:00</updated>
+  <content>Наші вчителі</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D730485D-493A-438D-8BD0-21F47BC3B289</id>
+  <title>На уроках</title>
+  <title xmlns="urn:iweb:">На уроках</title>
+  <in-navbar xmlns="urn:iweb:">D730485D-493A-438D-8BD0-21F47BC3B289</in-navbar>
+  <link rel="alternate" href="Na_urokah.html"/>
+  <updated>2013-07-14T19:54:39.003+09:00</updated>
+  <content>На уроках</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:65A90252-8F3D-4F97-AB15-A1A004ED13B1</id>
+  <title>Свято Осені</title>
+  <title xmlns="urn:iweb:">Свято Осені</title>
+  <in-navbar xmlns="urn:iweb:">65A90252-8F3D-4F97-AB15-A1A004ED13B1</in-navbar>
+  <link rel="alternate" href="Svato_Oseni.html"/>
+  <updated>2013-07-14T19:54:39.004+09:00</updated>
+  <content>Свято Осені</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:71CCC9DD-4767-4FD7-8A12-6C4948D6A2A9</id>
+  <title>День Святого Миколая</title>
+  <title xmlns="urn:iweb:">День Святого Миколая</title>
+  <in-navbar xmlns="urn:iweb:">71CCC9DD-4767-4FD7-8A12-6C4948D6A2A9</in-navbar>
+  <link rel="alternate" href="Den_Svatogo_Mikolaa.html"/>
+  <updated>2013-07-14T19:54:39.005+09:00</updated>
+  <content>День Святого Миколая</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0C37FBDC-5E2E-49E1-9D70-0EEF67354A16</id>
+  <title>Щедрий вечір</title>
+  <title xmlns="urn:iweb:">Щедрий вечір</title>
+  <in-navbar xmlns="urn:iweb:">0C37FBDC-5E2E-49E1-9D70-0EEF67354A16</in-navbar>
+  <link rel="alternate" href="Sedrij_vecir.html"/>
+  <updated>2013-07-14T19:54:39.006+09:00</updated>
+  <content>Щедрий вечір</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A3A2C69F-2755-4928-8481-6543B49A26F5</id>
+  <title>День Мами</title>
+  <title xmlns="urn:iweb:">День Мами</title>
+  <in-navbar xmlns="urn:iweb:">A3A2C69F-2755-4928-8481-6543B49A26F5</in-navbar>
+  <link rel="alternate" href="Den_Mami.html"/>
+  <updated>2013-07-14T19:54:39.007+09:00</updated>
+  <content>День Мами</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1445470D-391A-48E8-8420-0B9CA740EE9F</id>
+  <title>Ми на природі</title>
+  <title xmlns="urn:iweb:">Ми на природі</title>
+  <in-navbar xmlns="urn:iweb:">1445470D-391A-48E8-8420-0B9CA740EE9F</in-navbar>
+  <link rel="alternate" href="Mi_na_prirodi.html"/>
+  <updated>2013-07-14T19:54:39.008+09:00</updated>
+  <content>Ми на природі</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:91693852-F5E4-4D3A-A8A2-62BC7C3CC19F</id>
+  <title>Коза-Дереза </title>
+  <title xmlns="urn:iweb:">Коза-Дереза </title>
+  <in-navbar xmlns="urn:iweb:">91693852-F5E4-4D3A-A8A2-62BC7C3CC19F</in-navbar>
+  <link rel="alternate" href="Koza-Dereza.html"/>
+  <updated>2013-07-14T19:54:39.009+09:00</updated>
+  <content>Коза-Дереза </content>
+ </entry>
+</feed>
